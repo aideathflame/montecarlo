@@ -80,6 +80,8 @@ Exempel: R/R = 1.8 → `1 / (1 + 1.8) = 35.7%`. Om din win rate är 42% har du e
 
 ## Grafen
 
+![Simulation IONQ](montecarlo_IONQ.png)
+
 Grafen består av tre paneler:
 
 ### Huvudpanel (uppe till vänster) — prisbanor
